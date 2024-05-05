@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PC1_Valencia</string>
+    <string name="valTxtTitulo">Cálculo de Notas</string>
+    <string name="valtxtParcial">Ingresar Examen Parcial</string>
+    <string name="valtxtFinal">Ingresar Examen Final</string>
+    <string name="valtxtPEP">Promedio de evualuación permanente</string>
+    <string name="valtxtcalcular">CALCULAR</string>
+</resources>
